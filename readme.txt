@@ -10,5 +10,5 @@ A python program that generates programming quotes and jokes.
 
 ## Fork urls
 - `contributor-1`: https://github.com/ANDR3LAXE/quote-GRANDI-1
-- `contributor-2`: 
+- `contributor-2`: https://github.com/Aurelien-NEVEUX/quote-GRANDI-1
 - `contributor-3`: https://github.com/SamuelW05/quote-GRANDI-1
