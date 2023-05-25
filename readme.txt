@@ -3,10 +3,10 @@
 A python program that generates programming quotes and jokes.
 
 ## Contributors
-- `initiator`: Ivan Grandi L1 INT1 
-- `contributor-1`: Alexandre Didier L1 INT 1 
-- `contributor-2`: Aurelien Neveux L1 INT 1 
-- `contributor-3`: Samuel Weistroffer L1 INT 1
+- `initiator`: GRANDI Ivan L1 INT1 
+- `contributor-1`: DIDIER Alexandre L1 INT 1 
+- `contributor-2`: NEVEUX Aurelien L1 INT 1 
+- `contributor-3`: WEISTROFFER Samuel L1 INT 1
 
 ## Fork urls
 - `contributor-1`: https://github.com/ANDR3LAXE/quote-GRANDI-1
